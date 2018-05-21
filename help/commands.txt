@@ -1,0 +1,24 @@
+$ git add <file> // Add file(s) to index
+
+$ git status  // Check status of working tree
+
+$ git commit // Commit changes in Index
+
+$ git push // Push to Remote Repository 
+
+$ git pull // PULL  latest from remote reposityo
+
+$ git clone // clone remote repository into your folder
+
+$ git  config --global user.name ' ' // edit name
+
+
+$ git  config --global user.email ' ' // change email associated
+
+$$ git rm--cached <file>    // remove file from tree
+
+$ git branch // create new branch
+
+$ git checkout // switch branch
+
+$ git merge <branch> // merge <branch> into current branch
